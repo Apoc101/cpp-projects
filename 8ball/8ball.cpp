@@ -5,7 +5,7 @@ int main() {
   //title output
   std::cout << "MAGIC 8-BALL:\n\n";
 
-  //sets the seed to check for no influence in the generation of the number
+  //sets the seed so there isn't any influence in the generation of the number
   srand(time(NULL));
 
   //declare random variable
